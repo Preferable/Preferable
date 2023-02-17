@@ -1,4 +1,4 @@
-<img align="right" src="https://profile-counter.glitch.me/Preferable/count.svg?"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Preferable.Preferable&"  />
 
 ###
 
