@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Rust and JavaScript<br>🎲 Fun fact: [Placeholder]<br>🇩🇪 I'm fluent in English and German</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Rust and JavaScript<br>🎲 Fun fact: [Placeholder]<br>🇩🇪  I'm fluent in English and German</p>
 
 ###
 
