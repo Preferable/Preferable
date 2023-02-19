@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Rust and JavaScript<br>🎲 Fun fact: [Placeholder]<br>🇩🇪  I'm fluent in English and German</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Rust✔️ and JavaScript<br>🎲 Fun fact: [Placeholder]<br>🇩🇪  I'm fluent in English and German</p>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">💻Complete learning Rust and JS by 03/2023<br>📜Earning 3 Certificates by 06/2023</h4>
+<h4 align="left">💻Complete learning Rust✔️ and JS by 03/2023<br>📜Earning 3 Certificates by 06/2023</h4>
 
 ###
 
