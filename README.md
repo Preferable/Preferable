@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">💻Complete learning Rust✔️ and JS by 03/2023<br>📜Earning 3 Certificates by 06/2023</h4>
+<h4 align="left">💻Complete the recode of my selbot by 09/2023</h4>
 
 ###
 
